@@ -6,9 +6,9 @@ body {
 }
 
 header {
-    background: white;
+    background: transparent;
     color: #fff;
-    padding: 10px 0;
+    padding: 0;
     text-align: center;
 
 }
