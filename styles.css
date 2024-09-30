@@ -2,7 +2,7 @@ body {
     font-family: 'Impact', arial;
     margin: 0;
     padding: 20px;
-    background-color: #FFFFFF;
+    background-color: transparent;
 }
 
 header {
@@ -14,5 +14,5 @@ header {
 }
 
 h1, h2 {
-    color: white;
+    color: black;
 }
