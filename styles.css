@@ -2,13 +2,13 @@ body {
     font-family: 'Impact', arial;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #FFFFFF;
 }
 
 header {
     background: transparent;
-    color: #fff;
-    padding: 0;
+    color: #333;
+    padding: 10px 0;
     text-align: center;
 
 }
