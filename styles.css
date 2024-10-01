@@ -27,14 +27,15 @@ header {
 }
 
 /*The style associated with a header*/
-.header-titles
+
+/*.header-titles
 {
     background: transparent;
     padding: 28px 0;
     text-align: left;
     text-decoration: underline;
     font-weight: bold;
-}
+}*/
 
 /*Link color before click*/
 a {
@@ -46,5 +47,9 @@ a:visited {
     color: #6f7fd1;
 }
 h1, h2 {
-    color: #777a85; /*light gray*/
+    background: transparent;
+    padding: 28px 0;
+    text-align: left;
+    text-decoration: underline;
+    font-weight: bold;
 }
