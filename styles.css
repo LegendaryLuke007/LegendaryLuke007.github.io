@@ -30,6 +30,15 @@ header {
     border-radius: 40px;
 }
 
+.header-image
+{
+    background-image: url('https://github.com/LegendaryLuke007/LegendaryLuke007.github.io/raw/main/94DD4FEB-0DEC-48D9-9118-C2CD1D047551(1).JPG'); /* Replace with your image URL */
+    background-size: cover; /* Cover the entire div */
+    background-position: center; /* Center the image */
+    height: 400px; /* Set a height for the image */
+    width: 100%; /* Full width */
+}
+
 /*The style associated with a header*/
 
 /*.header-titles
