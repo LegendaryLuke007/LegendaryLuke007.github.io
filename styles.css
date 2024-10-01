@@ -19,14 +19,21 @@ header {
 
 {
     background: #451191; /*purple*/
-    color: blue;
+    color: white;
     padding: 10px 0;
     text-align: left;
     border: 2px solid #fc0317;
 }
 
+/*Link color before click*/
+a {
+    color: blue;
+}
 
-
+/*Link Color After Click*/
+a:visited {
+    color: #6f7fd1;
+}
 h1, h2 {
     color: white;
 }
