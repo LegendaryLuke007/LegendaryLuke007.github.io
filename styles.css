@@ -2,14 +2,14 @@ body {
     font-family: 'Impact', arial;
     margin: 0;
     color: #777a85; /*light gray*/
-    padding: 12px;
+    padding: 10px;
     background-color: black;
 }
 
 header {
     background: transparent;
     color: #777a85; /*light gray*/
-    padding: 12px 0;
+    padding: 10px 0;
     text-align: center;
 
 }
@@ -20,7 +20,7 @@ header {
 {
     background: #451191; /*purple*/
     color: #777a85; /*light gray*/
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: left;
     border: 2px solid #fc0317;
     border-radius: 40px;
@@ -48,7 +48,7 @@ a:visited {
 }
 h1, h2 {
     background: transparent;
-    padding: 28px 0;
+    padding: 10px 0;
     text-align: left;
     text-decoration: underline;
     font-weight: bold;
