@@ -38,7 +38,7 @@ header {
 
 /*Link color before click*/
 a {
-    color: blue;
+    color: #6f7fd1;
 }
 
 /*Link Color After Click*/
@@ -46,5 +46,5 @@ a:visited {
     color: #6f7fd1;
 }
 h1, h2 {
-    color: white;
+    color: #777a85; /*light gray*/
 }
