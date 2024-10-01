@@ -2,14 +2,14 @@ body {
     font-family: 'Impact', arial;
     margin: 0;
     color: white;
-    padding: 10px;
+    padding: 12px;
     background-color: black;
 }
 
 header {
     background: transparent;
     color: white;
-    padding: 10px 0;
+    padding: 12px 0;
     text-align: center;
 
 }
@@ -23,6 +23,7 @@ header {
     padding: 10px 0;
     text-align: left;
     border: 2px solid #fc0317;
+    border-radius: 15px;
 }
 
 /*Link color before click*/
