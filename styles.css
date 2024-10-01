@@ -26,6 +26,16 @@ header {
     border-radius: 15px;
 }
 
+/*The style associated with a header*/
+.header-titles
+{
+    background: transparent;
+    padding: 12px 0;
+    text-align: left;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 /*Link color before click*/
 a {
     color: blue;
