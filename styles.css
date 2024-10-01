@@ -33,7 +33,7 @@ header {
 .header-image
 {
     background-image: url('https://github.com/LegendaryLuke007/LegendaryLuke007.github.io/raw/main/IMG_6956.jpg'); 
-    background-size: cover; /* Cover the entire div */
+ /*   background-size: cover;  Cover the entire div */
     background-position: center; /* Center the image */
    
 
