@@ -1,14 +1,14 @@
 body {
     font-family: 'Impact', arial;
     margin: 0;
-    color: white;
+    color: #777a85; /*light gray*/
     padding: 12px;
     background-color: black;
 }
 
 header {
     background: transparent;
-    color: white;
+    color: #777a85; /*light gray*/
     padding: 12px 0;
     text-align: center;
 
@@ -19,18 +19,18 @@ header {
 
 {
     background: #451191; /*purple*/
-    color: white;
-    padding: 10px 0;
+    color: #777a85; /*light gray*/
+    padding: 20px 0;
     text-align: left;
     border: 2px solid #fc0317;
-    border-radius: 15px;
+    border-radius: 40px;
 }
 
 /*The style associated with a header*/
 .header-titles
 {
     background: transparent;
-    padding: 12px 0;
+    padding: 28px 0;
     text-align: left;
     text-decoration: underline;
     font-weight: bold;
