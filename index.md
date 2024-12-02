@@ -7,7 +7,7 @@ Feel free to contact me with any questions!
 ---
 
 ## **Background**
-- [Skills](other-file.md)
+- [Skills](Background/Skills.md)
 - [Work Experience](other-file.md)
 - [College Education](other-file.md)
 - [Post College Education](other-file.md)
