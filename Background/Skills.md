@@ -1,3 +1,6 @@
+<br/>
+<br/>
+
 ## Summary
 
 Through my various experiences, from work, college, and side projects, I have gathered a significant amount
