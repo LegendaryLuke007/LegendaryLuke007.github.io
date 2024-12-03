@@ -1,3 +1,6 @@
+<br/>
+<br/>
+
 ## Summary:
 
 My College Carrier started off centered around Mathematics and Finance, and ended with more of a focus in Mathematics and Computer Science. I took mostly math classes
