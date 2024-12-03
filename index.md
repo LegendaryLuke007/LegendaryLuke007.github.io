@@ -2,6 +2,7 @@
 <br/>
 
 
+![Mountain Range](https://github.com/user-attachments/assets/52cbf7ad-5a58-48a8-acb3-92e4400fb255)
 
 # Hello! Welcome to my website and enjoy your stay!
 
