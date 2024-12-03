@@ -7,7 +7,7 @@ with the help of Pat Holloway (Alaska Peony Expert) and submitted it to the URSA
 $5000 amount I was hoping for. With this grant I was able to fund my research. I was focused on finding a strong correlation that 
 could be used to streamline harvesting in Alaska for small scale farmers and to make it a more profitable business for Alaskans in general. 
 I ended up collecting over 8000 data points from bud sizes to color compositions all over several weeks. I then used a regression model to see 
-If I could draw a strong enough correlation to use any specific data type as a predictor for harvesting. To see my full reserach poster and 
+If I could draw a strong enough correlation to use any specific data type as a predictor for harvesting. To see my full research poster and 
 a much more detailed description, check out the link below! 
 
 ---
