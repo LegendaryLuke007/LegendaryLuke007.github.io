@@ -17,7 +17,7 @@ as I initally planned, it was a great learning experience.
 
 ## Degree: 
 
-- Associates of Arts (2025)
+- Associates of Arts (2024)
 
 ---
 
