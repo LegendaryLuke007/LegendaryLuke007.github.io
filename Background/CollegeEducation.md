@@ -59,10 +59,10 @@ as I initally planned, it was a great learning experience.
 ---
 
 ## Chess Club:
-<img src="https://github.com/user-attachments/assets/3204dbb9-edd5-447c-9fb1-14dcd5317a14" alt="Alt Text" style="width:50%; margin-right:10%;">
+<img src="https://github.com/user-attachments/assets/3204dbb9-edd5-447c-9fb1-14dcd5317a14" alt="Alt Text" style="width:50%; margin-right:2%;">
 <img src="https://github.com/user-attachments/assets/487cba96-f0f7-4287-86b1-0511467515a4" alt="Alt Text" width="25%" height="auto">
 
-<img src="https://github.com/user-attachments/assets/c52e14e4-8206-480d-90a2-f7cc57d1a9c8" alt="Alt Text" style="width:45%; margin-right:10%;"> 
+<img src="https://github.com/user-attachments/assets/c52e14e4-8206-480d-90a2-f7cc57d1a9c8" alt="Alt Text" style="width:45%; margin-right:2%;"> 
 <img src="https://github.com/user-attachments/assets/a1fc0292-207b-41f4-a839-0008f8b31d4f" alt="Alt Text" width="50%" height="auto">
 
 
