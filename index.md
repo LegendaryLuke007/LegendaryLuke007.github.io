@@ -18,9 +18,9 @@ Feel free to contact me with any questions!
 ## **Background**
 
 - [Skills](Background/Skills.md)
-- [Work Experience](other-file.md)
+- [Work Experience](Background/WorkExperience.md)
 - [College Education](Background/CollegeEducation.md)
-- [Post College Education](other-file.md)
+- [Post College Education](Background/PostCollegeEducation.md)
 
 ---
 
