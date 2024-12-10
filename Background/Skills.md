@@ -13,3 +13,59 @@ understanding about the fundementals of Networks, including various security pro
 maintenance, etc.
 
 ---
+
+## Mathematics
+
+- Algebra
+- Calculus
+- Linear Algebra
+- Statistics (Modeling, Sampling, Probability)
+  - Creating Probability Distributions around events
+  - Creating Sampling methods to gain insights into a population
+  - Using various forms of Regression for predictive modeling
+ 
+---
+
+## Communication
+
+- Strong verbal skills
+- Strong reading and writing abilities
+- Personable
+- Strong social deplomatic abilities (Mainly from time as a Barista)
+
+---
+
+## Hard Skills
+
+### CODING:
+
+- Medium R Abilities (Statistical Analysis Software)
+- Functional HTML abilities
+- Low level Python
+- Low level C++
+- Low level Javascript
+
+### IT TROUBLE SHOOTING:
+
+- OS Installation Disc drive, USB
+- Rufus and Bootable ISOs
+- Remote Management software
+- Adobe Admin
+- Microsoft and Adobe license management
+- Windows Security Settings
+- Windows Domain and File Sharing troubleshooting
+- DHCP Troubleshooting
+- Ethernet installation and testing connectivity
+- Troubleshooting Ubiquiti hardware including APs and Building-To-Building Radios
+- (ping, ipconfig, etc.)
+
+### CLOUD COMPUTING and CYBER SECURITY:
+
+- Amazon Web Services
+- Setting up VPC, segmenting through private and public subnets
+- Creating EC2 instances, connecting and installing software applications
+- Setting up Security Policies including Keys and IP restrictions
+- Installing and using T-Pot HoneyPot on a secure AWS Instance
+- Shifting through HoneyPot data 
+- Extracting Payload Hexedecimals from the HoneyPot to translate into readable format
+(Using Cyberchef mostly)
