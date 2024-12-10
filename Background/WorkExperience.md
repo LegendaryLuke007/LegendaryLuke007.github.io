@@ -16,9 +16,9 @@ management to customer service and statistical Analysis.
 
 #### JOB DESCRIPTION:
 
-As an IT Field Representative I was incharge of all the in person trouble shooting and customer relations
+As an IT Field Representative I am incharge of all the in person trouble shooting and customer relations
 in the Fairbanks Area. Vicinity, being an MSP and having a wide range of clients, had me going from working
-on some networks in Healthcare, to small businesses, to some more industrial systems up in Prudhoe Bay. I
+on some networks in Healthcare, to small businesses, to some more industrial systems up in Prudhoe Bay Alaska. I
 Spend most of my time troubleshooting network connectivity, organizing the deployment and maintenance of 
 Windows machines, and communicating with clients about potental hardware/software purchases and upgrades.
 
