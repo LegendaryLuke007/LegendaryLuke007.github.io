@@ -15,7 +15,8 @@ my college experience. The freedom to dive into projects and find solutions thro
 ## CERTIFICATIONS:
 
 - Comptia A+ (Acquired Summer 2024)
-- Security+ (*CURRENTLY IN PROGRESS*)
+- Comptia Security+ (*Actively in Progress*)
+  
 ---
 
 ## IT RELATED PROJECTS:
@@ -29,13 +30,15 @@ my college experience. The freedom to dive into projects and find solutions thro
 ## IT RELATED WORK:
 
 - IT Field Representative (see [Work Experience](WorkExperience.md)
+
 ---
 
 
 ## SKILLS OBTAINED:
+
 - Full OS Troubleshooting and manual Installation (Dell Server Project, Work)
 - Network Connectivity troubleshooting 
-- Manuel IP allocation (due to DHCP server glitch) <
+- Manuel IP allocation (due to DHCP server glitch) 
 - Linux OS (Dell Server, A+) 
 - Windows OS (Personal Computer, A+) 
 - Apple iOS (Personal, A+) 
@@ -45,3 +48,7 @@ my college experience. The freedom to dive into projects and find solutions thro
 - Troubleshooting Printers and Routers (Personal)
 - Amazon Web Services Security Restrictions and EC2 instances (SEE HONEYPOT PROJECT ADD LINK)
 - Hexadecimal analysis of code Payloads (See AWS HONEYPOT)
+
+---
+
+
