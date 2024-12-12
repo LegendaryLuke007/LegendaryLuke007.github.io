@@ -13,11 +13,13 @@ my college experience. The freedom to dive into projects and find solutions thro
 ---
 
 ## CERTIFICATIONS:
+
 - Comptia A+ (Acquired Summer 2024)
 - Security+ (*CURRENTLY IN PROGRESS*)
 ---
 
 ## IT RELATED PROJECTS:
+
 - NAS Backup Solution
 - Home Dell Server
 - AWS EC2 HoneyPot
