@@ -26,7 +26,7 @@ my college experience. The freedom to dive into projects and find solutions thro
 
 ## IT RELATED WORK:
 
-- IT Field Representative (see [Work Experience](Background/WorkExperience.md)
+- IT Field Representative (see [Work Experience](WorkExperience.md)
 ---
 
 
