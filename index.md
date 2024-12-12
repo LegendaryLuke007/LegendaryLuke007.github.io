@@ -26,7 +26,7 @@ Feel free to contact me with any questions!
 
 ## **Projects**
 
-- [NAS Backup Solution](other-file.md)
+- [NAS Backup Solution](Projects/NasBackupSolution.md)
 - [Peony Modeling Research](Projects/Peony.md)
 - [AWS T-Pot](other-file.md) - (WORK IN PROGRESS)
 - [AWS Hacking Research Lab](other-file.md) - (WORK IN PROGRESS)
