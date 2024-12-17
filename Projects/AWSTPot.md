@@ -48,6 +48,10 @@ From this project, I learned about...
 - [CVE-2024-4577](https://www.cvedetails.com/cve/CVE-2024-4577) 
 	- PHP-CGI OS Command Injection Vulnerability
 
+#### T-POT GITHUB:
+
+- [T-Pot](https://github.com/telekom-security/tpotce)
+
 ---
 
 ## TAKEAWAYS:
