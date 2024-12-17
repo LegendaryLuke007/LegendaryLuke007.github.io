@@ -58,7 +58,8 @@ From this project, I learned about...
 - I need to figure out a more adequate way to export the CSV files I want for analysis so I don't burn cash having the AWS instance running all the time
 - I really enjoy the investigative style of this workflow, trying to analyze the data and sift through to find usable information is super interesting and enthralling.
 - While I didn't fully achieve my goal of getting defanged Malware from the Honey Pot for further analysis, I took away a lot of information on general security practices and how to
-deploy and monitor instance in the cloud. 
+deploy and monitor instance in the cloud.
+
 --- 
 
 ## NEXT PROJECT(S):
