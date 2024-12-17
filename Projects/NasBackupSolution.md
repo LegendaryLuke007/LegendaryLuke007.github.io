@@ -19,3 +19,7 @@ it worked smoothly. The only edit that has been made to this system has been to 
 - Driver Partitioning 
 - Permission editing 
 - NAS Network Connectivity troubleshooting 
+
+---
+
+# [Return Home](index.md)
