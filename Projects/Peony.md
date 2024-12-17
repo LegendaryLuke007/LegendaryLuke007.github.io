@@ -22,3 +22,6 @@ a much more detailed description, check out the link below!
 
 #### Research Link: [Modeling Bud Growth of Peony, Paeonia Lactiflora](https://www.uaf.edu/ursa/research-day/2023-rca-day/2023_rcaday_posters/CNSM_Martin%20Luke_Poster.pdf)
 
+---
+
+# [Return Home](index.md)
