@@ -1,6 +1,7 @@
 <br/>
 <br/>
 
+# HOME DELL SERVER
 
 ## Summary:
 
@@ -9,3 +10,7 @@ wanted to get my hands dirty with a Linux distribution and older hardware so tha
 a weird OS using a Disc drive vs the usual USB configurations I am used to with newer hardware.
 
 INSERT UPDATES
+
+---
+
+# [Return Home](index.md)
