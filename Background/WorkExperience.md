@@ -85,4 +85,8 @@ time working with their earthquake software.
 - labeling and tracking cables and assets
 - Analyzing earhtquake waveforms
 - Usage of asset tracking software
+
+---
+
+# [Return Home](index.md)
   
