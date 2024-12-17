@@ -1,7 +1,7 @@
 <br/>
 <br/>
 
-# AWS T-Pot
+# AWS T-POT
 
 <img src="https://github.com/telekom-security/tpotce/blob/master/doc/tpotsocial.png">
 
