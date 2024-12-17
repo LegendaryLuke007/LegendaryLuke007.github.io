@@ -1,6 +1,8 @@
 <br/>
 <br/>
 
+# WORK EXPERIENCE
+
 ## Summary
 
 My work experience has quite a spread. I have worked anywhere from farming, undergraduate research,
@@ -9,8 +11,6 @@ have allowed me to have a wide breadth of knowledge and abilites from organizati
 management to customer service and statistical Analysis.
 
 ---
-
-## Work Experiences
 
 ### Vicinity IT Field Representative (2024-Present)
 
