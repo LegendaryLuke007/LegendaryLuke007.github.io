@@ -50,7 +50,7 @@ From this project, I learned about...
 
 #### T-POT GITHUB:
 
-- [T-Pot](https://github.com/telekom-security/tpotce)
+- https://github.com/telekom-security/tpotce
 
 ---
 
