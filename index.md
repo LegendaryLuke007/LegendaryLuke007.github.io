@@ -29,7 +29,7 @@ Feel free to contact me with any questions!
 - [NAS Backup Solution](Projects/NasBackupSolution.md)
 - [Home Dell Server](Projects/HomeDellServer.md)
 - [Peony Modeling Research](Projects/Peony.md)
-- [AWS Honey-Pot](Projects/AWSTPOT.md)  
+- [AWS Honey-Pot](Projects/AWSTPot.md)  
 - [Home SOC Setup](other-file.md) - (WORK IN PROGRESS)
 - [Malware Research Lab](other-file.md) - (WORK IN PROGRESS)
 
