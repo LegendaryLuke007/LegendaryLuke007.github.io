@@ -51,6 +51,7 @@ my college experience. The freedom to dive into projects and find solutions thro
 
 --- 
 
-# [Return Home](index.md)
+# [Return Home](../index.md)
+
 
 
