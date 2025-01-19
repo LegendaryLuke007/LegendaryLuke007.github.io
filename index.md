@@ -35,6 +35,12 @@ Feel free to contact me with any questions!
 
 ---
 
+## **Scripts**
+
+- [Small Single-Use Scripting](https://github.com/LegendaryLuke007/Scripts)
+
+---
+
 ## **Contact Info**
 
 - Email: *luke.a.martin007@gmail.com*
