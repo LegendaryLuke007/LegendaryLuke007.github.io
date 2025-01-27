@@ -10,7 +10,7 @@ of skill sets over the years. I am adapt in various manual-labor type systems (c
 etc.) as well as having technical knowledge in the software and application troubleshooting side. Ontop of this
 I have exceptional communication and customer service abilities which I have picked up from my time at the 
 Botanical Gardens as well as my time as a Barista. Currently, through working at a MSP and continuing my learning 
-journey through the Security+ certificate aswell as some AWS projects, I have also gathered a significant
+journey through the Security+ certificate aswell as some IT projects, I have also gathered a significant
 understanding about the fundementals of Networks, including various security protocols, port functionalities, common
 maintenance, etc.
 
@@ -21,6 +21,7 @@ maintenance, etc.
 - Algebra
 - Calculus
 - Linear Algebra
+- Logic (Axiomatic Thinking)
 - Statistics (Modeling, Sampling, Probability)
   - Creating Probability Distributions around events
   - Creating Sampling methods to gain insights into a population
@@ -33,7 +34,7 @@ maintenance, etc.
 - Strong verbal skills
 - Strong reading and writing abilities
 - Personable
-- Strong social deplomatic abilities (Mainly from time as a Barista)
+- Strong social deplomatic abilities (Mainly from time as a Barista and as a IT Field Representative)
 
 ---
 
@@ -43,7 +44,9 @@ maintenance, etc.
 
 - Medium R Abilities (Statistical Analysis Software)
 - Functional HTML abilities
-- Low level Python
+- Functional Python
+- Functional Bash
+- Functional PowerShell
 - Low level C++
 - Low level Javascript
 
@@ -52,7 +55,6 @@ maintenance, etc.
 - OS Installation Disc drive, USB
 - Rufus and Bootable ISOs
 - Remote Management software
-- Adobe Admin
 - Microsoft and Adobe license management
 - Windows Security Settings
 - Windows Domain and File Sharing troubleshooting
@@ -68,8 +70,9 @@ maintenance, etc.
 - Creating EC2 instances, connecting and installing software applications
 - Setting up Security Policies including Keys and IP restrictions
 - Installing and using T-Pot HoneyPot on a secure AWS Instance
-- Shifting through HoneyPot data 
-- Extracting Payload Hexedecimals from the HoneyPot to translate into readable format
+- Shifting through HoneyPot data
+- Setting Up and using VMs
+- Extracting Payload Hexedecimals from Logs to translate into readable format
 (Using Cyberchef mostly)
 
 ---
