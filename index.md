@@ -24,7 +24,7 @@ Feel free to contact me with any questions!
 
 ---
 
-## **Projects**
+## **IT/Cyber Related Projects**
 
 - [NAS Backup Solution](Projects/NasBackupSolution.md)
 - [Home Dell Server](Projects/HomeDellServer.md)
@@ -38,6 +38,12 @@ Feel free to contact me with any questions!
 ## **Scripts**
 
 - [Small Single-Use Scripting](https://github.com/LegendaryLuke007/Scripts)
+
+---
+
+## **Personal Projects**
+- [Obisidan Knowledge Vault](Projects/ObsidianVault.md) - (WORK IN PROGRESS)
+- [Neo Native Project](Projects/NeoNative.md) - (WORK IN PROGRESS)
 
 ---
 
