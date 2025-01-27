@@ -30,7 +30,7 @@ Feel free to contact me with any questions!
 - [Home Dell Server](Projects/HomeDellServer.md)
 - [Peony Modeling Research](Projects/Peony.md)
 - [AWS Honey-Pot](Projects/AWSTPot.md)  
-- [Home SOC Setup](other-file.md) - (WORK IN PROGRESS)
+- [Home SOC Setup](HomeSocSetup.md) - (WORK IN PROGRESS)
 - [Malware Research Lab](other-file.md) - (WORK IN PROGRESS)
 
 ---
