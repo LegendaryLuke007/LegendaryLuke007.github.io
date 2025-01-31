@@ -88,6 +88,6 @@ time working with their earthquake software.
 
 ---
 
-# [Return Home](../index.md)
+# [Return Home]([../index.md](https://legendaryluke007.github.io/))
 
   

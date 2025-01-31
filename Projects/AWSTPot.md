@@ -78,5 +78,5 @@ deploy and monitor instance in the cloud.
  
 ---
 
-# [Return Home](..\Projects)
+# [Return Home](https://legendaryluke007.github.io/)
  

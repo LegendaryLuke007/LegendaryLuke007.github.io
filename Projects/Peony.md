@@ -24,4 +24,4 @@ a much more detailed description, check out the link below!
 
 ---
 
-# [Return Home](../index.md)
+# [Return Home](https://legendaryluke007.github.io/)

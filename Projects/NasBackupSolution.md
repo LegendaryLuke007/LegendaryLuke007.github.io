@@ -22,5 +22,5 @@ it worked smoothly. The only edit that has been made to this system has been to 
 
 ---
 
-# [Return Home](../index.md)
+# [Return Home](https://legendaryluke007.github.io/)
 

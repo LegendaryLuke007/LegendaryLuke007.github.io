@@ -77,4 +77,4 @@ maintenance, etc.
 
 ---
 
-# [Return Home](../index.md)
+# [Return Home](https://legendaryluke007.github.io/)

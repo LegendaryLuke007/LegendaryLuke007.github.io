@@ -51,5 +51,5 @@ a weird OS using a Disc drive vs the usual USB configurations I am used to with 
 - **STILL WORK IN PROGRESS
 ---
 
-# [Return Home](../index.md)
+# [Return Home](https://legendaryluke007.github.io/)
 
