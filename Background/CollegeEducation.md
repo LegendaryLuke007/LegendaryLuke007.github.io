@@ -71,4 +71,4 @@ During my Junior year of high school, I witnessed the "spring break that never e
 ---
 
 
-# [Return Home](../index.md)
+# [Return Home](https://legendaryluke007.github.io/)
