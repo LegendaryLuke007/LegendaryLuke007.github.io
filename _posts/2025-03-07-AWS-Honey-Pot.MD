@@ -5,7 +5,7 @@ date: 2025-03-07
 categories: [cybersecurity]
 tags: [analysis]
 image: 
-    path: assets/img/tpotsocial.png
+    path: ../assets/img/tpotsocial.png
 
 description: Overview of a AWS Honey Pot Project and lessons learned.
 ---
