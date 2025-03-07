@@ -1,7 +1,9 @@
 ---
 # the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
+layout: page
 ---
 
 **TheVault** is a personal website spun up by Luke Martin, a IT Field Representative who has a passion for All things Technology.
