@@ -6,8 +6,6 @@ order: 4
 layout: page
 ---
 
-# About TheVault
-
 **TheVault** is a personal website spun up by Luke Martin, an IT Field Representative who has a passion for All things Technology.
 
 Originally, Luke was going to college at the *University of Alaska Fairbanks* for Theoretical Mathematics, Computer Science, and Statistics. After three years of grueling Mathematics, he had fallen to the point of burn out where he had to find a different path. So, over the summer of 2024 he went and got his A+ certification while working as a Barista to make ends meet. Within the first 3 months of job search, he was fortunate enough to land a job with Vicinity, an up and coming local Info-Tech MSP. 
@@ -36,4 +34,4 @@ He has also actively pursued related projects in:
 
 - Associate of Arts - University of Alaska Fairbanks
 - CompTIA A+ Certified
-- Currently pursuing Security
+- Currently pursuing CompTIA Security+
