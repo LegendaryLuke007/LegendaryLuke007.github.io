@@ -4,9 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 **TheVault** is a personal website spun up by Luke Martin, a IT Field Representative who has a passion for All things Technology.
 
 Originally, Luke was going to college at the *University of Alaska Fairbanks* for Theoretical Mathematics, Computer Science, and Statistics. After three years of grueling Mathematics, he had fallen to the point of burn out where he had to find a different path. So, over the summer of 2024 he went and got his A+ certification while working as a Barista to make ends meet. Within the first 3 months of job search, he was fortunate enough to land a job with Vicinity, a up and coming local Info-Tech MSP. 
