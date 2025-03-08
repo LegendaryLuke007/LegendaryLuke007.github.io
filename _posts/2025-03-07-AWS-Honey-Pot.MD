@@ -10,7 +10,7 @@ image:
 description: Overview of a AWS Honey Pot Project and lessons learned.
 ---
 
-[T-PotSocial Picture](assets/img/tpotsocial.png)!
+[T-PotSocial Picture](../assets/img/tpotsocial.png)!
 
 # AWS based Honey-Pot
 
