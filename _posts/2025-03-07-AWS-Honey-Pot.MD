@@ -10,15 +10,15 @@ image:
 description: Overview of a AWS Honey Pot Project and lessons learned.
 ---
 
-![T-PotSocial Picture](/assets/img/tpotsocial.png)
-
 # AWS based Honey-Pot
 
-## Concept Introduction:
+## INTRODUCTION:
 
-I really wanted to get my hands dirty with some vulnerability data, and quite honestly, digging through other people's research didn't seem engaged enough. So, I decided to find a way to get my own data about attempted exploits... And that is where the Honey Pot comes into play. 
+I really wanted to get my hands dirty with some vulnerability data, and quite honestly, digging through other people's research didn't seem engaging enough. So, I decided to find a way to get my own data about attempted exploits... And that is where the Honey Pot comes into play. 
 
 A Honey-Pot is a system that looks like a vulnerable machine, but is really just there to attract adversaries to "leave their fingerprints" so to speak. The T-Pot which I used is a free to use honeypot software developed by T-Mobile to help promote cyber research. There are many different methods for deployment, and while this is built out on a *AWS EC2* instance, It could also be deployed on VMs, dockers, or many other setups. There will be a link at the bottom for anyone who is interested in trying the stuff out for themselves!
+
+---
 
 ## SUMMARY:
 Starting off, I wanted to see if I could effectively and securely deploy a AWS based honeypot. I really wanted to be able to see what actual malicious traffic looked like, see some of the raw data that indicates specific type of attacks, and just get my hands a little dirty with installing and using monitoring applications. I was able to successfully install and deploy a T-Pot instance for about 4 days, browse the various tools in the T-Pot software package,
@@ -42,7 +42,9 @@ From this project, I learned about...
   - Digging into different types of Encryption methodologies, md5, sha512, etc. etc.
   - Finding some payloads referencing IPs and attempting to download it locally on the AWS instance
 - Learned about CVEs and their application in securing a device/network
-   
+
+---
+
 #### CVEs ATTEMPTED:
 - [CVE-2002-0013](https://www.cvedetails.com/cve/CVE-2002-0013)
 	- SNMPv1 vulnerability allow denial of service or privilege escalation
@@ -59,10 +61,13 @@ From this project, I learned about...
 - [CVE-2024-4577](https://www.cvedetails.com/cve/CVE-2024-4577) 
 	- PHP-CGI OS Command Injection Vulnerability
 
+---
+
 #### T-POT GITHUB:
 
 - [T-Pot](https://github.com/telekom-security/tpotce)
 
+---
 
 ## KEY TAKEAWAYS:
 - Catching Malware organically for analysis is harder then expected
