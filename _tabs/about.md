@@ -33,5 +33,6 @@ He has also actively pursued related projects in:
 ## Education & Certifications
 
 - Associate of Arts - University of Alaska Fairbanks
+  - Focus in Mathematics, Statistics, and Computer Science 
 - CompTIA A+ Certified
-- Currently pursuing CompTIA Security+
+- CompTIA Security+ Certified
