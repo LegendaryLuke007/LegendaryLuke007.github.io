@@ -24,7 +24,7 @@ Throughout his career in Info-Tech, he has:
 ## Projects & Skills
 
 He has also actively pursued related projects in:
-- Security scripting
+- Security scripting ([Some Github Scripts](https://github.com/LegendaryLuke007/Scripts))
 - Honey-Pot management ([Project](https://legendaryluke007.github.io/posts/AWS-Honey-Pot/))
 - The Wazuh security stack ([Part 1](https://legendaryluke007.github.io/posts/Wazuh-Part-1/) and [Part 2](https://legendaryluke007.github.io/posts/Wazuh-Part-2/))
 - Vulnerability research
