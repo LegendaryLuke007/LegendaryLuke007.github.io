@@ -6,29 +6,27 @@ order: 4
 layout: page
 ---
 
-**TheVault** is a personal website spun up by Luke Martin, an IT Field Representative who has a passion for All things Technology.
+**TheVault** is a personal website spun up by Luke Martin, an IT Field Technician who has a passion for All things Technology.
 
-Originally, Luke was going to college at the *University of Alaska Fairbanks* for Theoretical Mathematics, Computer Science, and Statistics. After three years of grueling Mathematics, he had fallen to the point of burn out where he had to find a different path. So, over the summer of 2024 he went and got his A+ certification while working as a Barista to make ends meet. Within the first 3 months of job search, he was fortunate enough to land a job with Vicinity, an up and coming local Info-Tech MSP. 
+Luke Martin is a seasoned Field Technician working from Fairbanks Alaska for a startup MSP by the name of Vicinity. Being the main Field Technician for the Fairbanks Area, he spends his work time often dealing with various hardware issues as well as system-admin work. While the title of "Field Technician" genrally doesn't include a lot of work besides basic troubleshooting, due to the size of Vicinity, Luke partakes in a lot of work that would often be considered "System Administration" as well as "Security Adminstration". Being the main person who runs the SentinelOne EDR for Vicinity's maanged environments, he spends a lot of time learning doing incident response as well as organizing and designing proper exclusion and blacklists for the wide variety of environments that Vicinity manages.
 
 ## Professional Experience
 
 Throughout his career in Info-Tech, he has:
- 
+
 - Stood up client endpoints and various peripherals 
-- Caught and mitigated cybersecurity risks through isolation of infected systems
-- Configured restrictive firewalls on endpoints, networks, and servers
-- Configured Spam alerts for key clients and optimized email security
-- Configured automations for security scanning and vulnerability checking
-- Worked with the full suite of Microsoft 365 management (Intune, Active Directory, etc.) and Security (Microsoft Defender) Tools
+- Personally managed over 1200+ Endpoints using SentinelOne EDR
+- Configured Fortigate Firewalls
+- Configured Spam alerts for key clients and optimized email securit
+- Configured automations for security scanning 
+- Helped run a full multi-day Incident Response for a large environment facing a mass ransomware incident. Sucessfully spun-up immutable backups via Datto, isolated machines and endpoints via SentinelOne, and got rid of the suspected backdoors. 
 
 ## Projects & Skills
 
 He has also actively pursued related projects in:
-- Security scripting ([Some Github Scripts](https://github.com/LegendaryLuke007/Scripts))
 - Honey-Pot management ([Project](https://legendaryluke007.github.io/posts/AWS-Honey-Pot/))
 - The Wazuh security stack ([Summary](https://legendaryluke007.github.io/posts/Wazuh-Summary/))
-- Vulnerability research
-- And other cybersecurity initiatives
+- Did a bug bounty through Bugcrowd for a Medium threat Prompt-Injection Vulnerability for a wellknown Agentic Browser
 
 ## Education & Certifications
 
