@@ -3,9 +3,9 @@ layout: post
 title: "ProxMox Lab Part 1"
 date: 2026-01-06
 categories: [cybersecurity]
-tags: [Builds]
+tags: [How-To]
 image: 
-    path: /assets/img/Wazuh_SiemLogo.png
+    path: /assets/img/ProxMoxLogo.png
 
 description: How-To Guide for setting up a ProxMox lab environment for the first time. Part 1.
 ---
@@ -43,11 +43,13 @@ With this environment setup I will be able to jump into testing exploits and pen
 #### Changing Repository reference to be non-enterprise.
 - ProxMox by default is a enterprise solution. This means it is referencing *Repositories that REQUIRE a subscription to use*. This becomes problematic when you try to update your `apt` package manager. As soon as you use `apt-get` to install anything you will notice this error as well. So in order to use Proxmox in a lab like fashion you HAVE TO switch the repository it is referencing from the Enterprise > Community one.
 
->[!hint] NOTE on `sudo`
+>NOTE on `sudo`
 >- I never use `sudo` in any of these commands - that is because on Proxmox you sign-in with a root account by default. So everything is done as a root user.
+{: .prompt-tip }
 
 1) **Disable Enterprise Repositories**
-```Bash
+
+```bash
 # Disable PVE enterprise
 mv /etc/apt/sources.list.d/pve-enterprise.sources /etc/apt/sources.list.d/pve-enterprise.sources.disabled
 
@@ -56,7 +58,9 @@ mv /etc/apt/sources.list.d/ceph.sources /etc/apt/sources.list.d/ceph.sources.dis
 ```
 
 2) **Remove the Old .list File and Create Proper .sources Files**
-```Bash
+
+
+```bash
 # Remove the incorrectly formatted file
 rm /etc/apt/sources.list.d/pve-no-subscription.list
 
@@ -123,6 +127,7 @@ curl -L -O  https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd
 
 # This example is for installing the Kali-Linux distro
 ```
+
 - you will need to go to the `cdimage.website.com` of whatever distro you want to find the installation.
 - Once you find the exact download link you want, right click and copy path. that will be the `https://Download link address`
 - Note:
@@ -135,6 +140,7 @@ curl -L -O  https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd
 	- https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd64.iso
 	- https://cdimage.ubuntu.com/daily-live/current/resolute-desktop-amd64.iso
 	- https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=a6538726-4700-4630-ae58-5002622516eb&P1=1767813276&P2=601&P3=2&P4=dUZt%2fegmT1RdFVuVYWeOIDZ8M5Vim1xPo0PIciZc7159dp1%2f8ux469BLAQ7inPaiN%2fa6k3gE%2baoqyA4C25aLp7p56XIk7OikpnxMGitUOKTZi4RUiXtLkHvZ8H3TWfxF3f%2f1j21c3nLTGvVhl6d7lxpDwXD6hpvnc%2bCKBHJIBUcc7nN1P7YDpIKFXzWnXhuwpSaxPSHQ%2f0yezPgRXPk6mCvwT2FfvsR94%2fmeyF%2fq5DSuBNCFgeKuBHifHy487BXeM146YaouErFLMlnqjy5z%2bZbznpQ6qyUPVDZfRnvS4tFFAUE8w2Mp5anxPnIXn1GaYpK3Yel92%2fw3lOK49UMasQ%3d%3d
+  
 - **NOTE: on the second line of ISO Image, make sure to specify the name of the file. I had to start the download initially sometimes to verify that the name was correct**
 ![[screenshot-2026-01-06_10-24-42.png]]
 
@@ -144,8 +150,10 @@ curl -L -O  https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd
 - If you have dealt with Virtual Machines before this isn't anything special. Exactly what you would expect with having to do the OTB experience for each machine.
 - The exception is the *Metasploitable 2* VM - this is a vulnerable VM so you have to be a little more careful with this one.
 
->[!warning] Vulnerable VMs
-> I would be very careful when spinning up *Metaspolitable 2* as a VM. Since up to this point there is no traffic control between these VMs and the rest of the network you are on, it might be worth to wait until a Firewall is deployed before setting this up. 
+> Vulnerable VMs
+> I would be very careful when spinning up *Metaspolitable 2* as a VM. Since up to this point there is no traffic control between these VMs and the rest of the network you are on, it might be worth to wait until a Firewall is deployed before setting this up.
+{: .prompt-warning }
+
 
 
 ----
