@@ -110,7 +110,7 @@ apt update
 >```bash
 >apt-get curl
 >```
->- Another note is in this command there is the use of `sudo` - the command might with this as well because of it already being in root. go ahead and delete `sudo` from the command.
+>- Another note is I have no use of `sudo` in this command. THat is because when you login to ProxMox as root... You are ALREADY at root so no need to escalate priviledges. Everything is run from a escalated state. 
 {: .prompt-tip }
 
 ---
@@ -139,7 +139,7 @@ curl -L -O  https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd
 - The following are the list of ISOs I downloaded for this project:
 	- https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd64.iso
 	- https://cdimage.ubuntu.com/daily-live/current/resolute-desktop-amd64.iso
-	- https://software.download.prss.microsoft.com/dbazure/Win10_22H2_English_x64v1.iso?t=a6538726-4700-4630-ae58-5002622516eb&P1=1767813276&P2=601&P3=2&P4=dUZt%2fegmT1RdFVuVYWeOIDZ8M5Vim1xPo0PIciZc7159dp1%2f8ux469BLAQ7inPaiN%2fa6k3gE%2baoqyA4C25aLp7p56XIk7OikpnxMGitUOKTZi4RUiXtLkHvZ8H3TWfxF3f%2f1j21c3nLTGvVhl6d7lxpDwXD6hpvnc%2bCKBHJIBUcc7nN1P7YDpIKFXzWnXhuwpSaxPSHQ%2f0yezPgRXPk6mCvwT2FfvsR94%2fmeyF%2fq5DSuBNCFgeKuBHifHy487BXeM146YaouErFLMlnqjy5z%2bZbznpQ6qyUPVDZfRnvS4tFFAUE8w2Mp5anxPnIXn1GaYpK3Yel92%2fw3lOK49UMasQ%3d%3d
+	- https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.285-1/virtio-win.iso
   
 - **NOTE: on the second line of ISO Image, make sure to specify the name of the file. I had to start the download initially sometimes to verify that the name was correct**
 ![[screenshot-2026-01-06_10-24-42.png]]
