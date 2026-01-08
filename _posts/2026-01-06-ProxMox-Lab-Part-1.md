@@ -95,13 +95,13 @@ apt update
 - My quick and scrappy solution is *Tailscale* - an application level VPN.
 - To learn how to setup a Tailscale account - [go here](https://tailscale.com/use-cases/homelab) (it's free for hobbyists!)
 - To install Tailscale on your Proxmox server, simply get the installation script from your Tailscale account by clicking Add Device > Linux Server.
-	![[screenshot-2026-01-02_15-58-09.png]]
 
+![alt text](/assets/img/ProxMoxLabPart1_img1.png)
 - At the bottom of the page you will see an installation script once you click *generate install script*.
 - Paste this into the Shell of the Proxmox host, delete `sudo` from the script (you are already a root user), and go for it.
 - If it works with no errors you will need to login to your tailscale account via a web-browser using the link provided on the terminal (doesn't have to be the Proxmox web-Browser though! Can just be any computer's browser) and verify that the connection is okay to be made.
 - After the initial setup, you will see the new device present on your Tailscale Account with a dedicate IP address: You can now use that IP address (and specifying port 8006) to gain remote access to that computer *As long as your current computer is also attached to your tailscale network*.
-![[screenshot-2026-01-02_16-00-23.png]]
+![alt text](/assets/img/ProxMoxLabPart1_img2.png)
 
 >`Curl`
 >- In order to do this step you might have to install the `curl` package.
@@ -136,12 +136,15 @@ curl -L -O  https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd
 - You should see it pop up in the ISO Image tab under local storage! Once it is there you can now go ahead and spin up a VM using that iso!
 ![[screenshot-2026-01-02_16-11-56.png]]
 
+![alt text](/assets/img/ProxMoxLabPart1_img3.png)
 - The following are the list of ISOs I downloaded for this project:
 	- https://cdimage.kali.org/kali-2025.4/kali-linux-2025.4-installer-amd64.iso
 	- https://cdimage.ubuntu.com/daily-live/current/resolute-desktop-amd64.iso
 	- https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.285-1/virtio-win.iso
   
 - **NOTE: on the second line of ISO Image, make sure to specify the name of the file. I had to start the download initially sometimes to verify that the name was correct**
+
+![alt text](/assets/img/ProxMoxLabPart1_img4.png)
 ![[screenshot-2026-01-06_10-24-42.png]]
 
 ---
