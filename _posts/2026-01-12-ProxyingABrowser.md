@@ -6,8 +6,8 @@ categories:
   - cybersecurity
 tags:
   - How-To
+image: '{"path":"/assets/img/BurpSuiteLogo.png"}'
 description: Quick How-To Guide for setting up a Burp Suite Proxy in order to inspect the flow (and contents) of requests that a browser sends out. In This case, specifically for Perplexity's Comet Browser.
-image: '{"path":"assets/img/BurpSuiteLogo.png"}'
 ---
 
 #### Purpose
