@@ -55,5 +55,5 @@ The general HTTP side of this is pretty straight forward, but the HTTPS requires
 >- if BurpSuite is turned off, the browser will still try to use the Proxy and will fail.
 >{: .prompt-warning }
 
-
+ 
 That is all for now, Thank you for taking a moment to glance at this! Cheers,
